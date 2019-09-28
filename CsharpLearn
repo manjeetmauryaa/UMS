@@ -1,0 +1,14 @@
+using System;
+namespace CsharpWorld
+{
+class Hello
+{
+ static void Main(string[] args)
+ {
+ Console.WriteLine("Hello World"); //display output
+ Console.Read();     //show the command prompt untill any key not press
+ }
+ }
+ 
+ 
+ 
